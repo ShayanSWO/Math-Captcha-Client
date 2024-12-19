@@ -1,5 +1,6 @@
 
 # Math CAPTCHA (Client-Side)
+For Persian explanation click [here](https://github.com/ShayanSWO/Math-Captcha-Clinet/blob/main/README-fa.md)
 
 Nowadays, due to the presence of CAPTCHA-reading scripts, it is no longer effective to combat bots using jumbled letters and numbers. Many free scripts can easily recognize traditional CAPTCHAs.
 
@@ -10,8 +11,9 @@ This sample is suitable for projects that require a local, client-side CAPTCHA f
 
 
 ## Screenshot
-
-![App Screenshot](https://github.com/ShayanSWO/Math-Captcha-Clinet/blob/main/Screenshot.gif?text=App+Screenshot+Here)
+<div align="center">
+  <img src="https://github.com/ShayanSWO/Math-Captcha-Clinet/blob/main/Screenshot.gif?text=App+Screenshot+Here" alt="App Screenshot">
+</div>
 
 
 ## Libraries
