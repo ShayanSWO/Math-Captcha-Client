@@ -13,7 +13,9 @@
 
 ## اسکرین شات
 
-![App Screenshot](https://github.com/ShayanSWO/Math-Captcha-Clinet/blob/main/Screenshot.gif?text=App+Screenshot+Here)
+<div align="center">
+  <img src="https://github.com/ShayanSWO/Math-Captcha-Clinet/blob/main/Screenshot.gif?text=App+Screenshot+Here" alt="App Screenshot">
+</div>
 
 
 ## کتابخانه ها
