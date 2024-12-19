@@ -12,7 +12,7 @@
 
 ## اسکرین شات
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/ShayanSWO/Math-Captcha-Clinet/blob/main/Screenshot.gif?text=App+Screenshot+Here)
 
 
 ## کتابخانه ها
