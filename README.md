@@ -1,6 +1,6 @@
 
 # Math CAPTCHA (Client-Side)
-[Description in Persian](https://github.com/ShayanSWO/Math-Captcha-Clinet/blob/main/README-fa.md)
+[Description in "Persian"](https://github.com/ShayanSWO/Math-Captcha-Clinet/blob/main/README-fa.md)
 
 Nowadays, due to the presence of CAPTCHA-reading scripts, it is no longer effective to combat bots using jumbled letters and numbers. Many free scripts can easily recognize traditional CAPTCHAs.
 
